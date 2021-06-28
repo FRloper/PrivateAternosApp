@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\bin\Debug\Aternos Application.exe.config
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\bin\Debug\Aternos Application.exe
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\bin\Debug\Aternos Application.pdb
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos Application.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos_Application.Form1.resources
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos_Application.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos Application.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos Application.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos Application.exe
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos Application.pdb
+C:\Users\Mustafa\source\repos\Aternos Application\Aternos Application\obj\Debug\Aternos_Application.LockDPass.resources
